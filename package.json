@@ -1,0 +1,38 @@
+{
+  "name": "remath-demo",
+  "version": "0.0.1",
+  "description": "Demo of the reMath Library",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "reactive-programming",
+    "remath",
+    "math",
+    "spreadsheet"
+  ],
+  "author": "Trevor Hanus <trevorhanus@gmail.com> (http://github.com/trevorhanus)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^5.4.7",
+    "babel-eslint": "^3.1.9",
+    "babel-loader": "^5.1.2",
+    "eslint-plugin-react": "^2.3.0",
+    "react-hot-loader": "^2.0.0-alpha-4",
+    "webpack": "^1.9.6",
+    "webpack-dev-server": "^1.8.2"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "mobx": "^2.0.0",
+    "mobx-react": "^3.0.0",
+    "mobx-react-devtools": "^4.0.2",
+    "node-uuid": "^1.4.3",
+    "react": "^0.14.1",
+    "react-bootstrap": "^0.28.5",
+    "react-dom": "^0.14.1",
+    "react-draggable": "^1.0.1"
+  }
+}
